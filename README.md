@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jenn Kaphammer!
 - 👀 I’m interested in the intersections of art and technology
-- 🌱 I’m currently studying undergradate computer science and music technology at CU.
+- 🌱 I’m currently studying computer science and music technology at CU.
 - 💞️ I’m looking to collaborate on any project that will expand my learning and be helpful for internships.
 - 📫 Reach me by looking me up on Handshake.
 
